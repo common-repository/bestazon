@@ -1,0 +1,74 @@
+body.settings_page_BestAzon .form-table th {
+    color: blue;
+    width: 300px;
+}
+body.settings_page_BestAzon .BestAzon-Options-Page {
+    background: white;
+    padding: 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    margin: 10px;
+}
+body.settings_page_BestAzon input[type="submit"] {
+    background: blue;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+body.settings_page_BestAzon input[type="submit"]:hover {
+    background: black;
+    color: white;
+    border: 1px solid blue;
+}
+body.settings_page_BestAzon label {
+    padding-right: 10px;
+}
+body.settings_page_BestAzon h2 {
+    border-bottom: 1px solid red;
+}
+body.settings_page_BestAzon>h2 {
+    font-size: 24px;
+    background: white;
+    border-bottom: 1px solid red;
+}
+body.settings_page_BestAzon .BestAzon-Header {
+    background: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+body.settings_page_BestAzon .BestAzon-Header h2 {
+    color: white;
+    font-size: 24px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid white;
+    background-image: url('../img/BestAzonLogo.png');
+}
+
+.BestAzon-Form input {
+    border-radius: 10px;
+    background: #f1f1f1;
+    border: none;
+    border-style: none;
+}
+
+#BestAzon_Recommendation
+{
+background: blue;
+color: white;
+margin: 5px;
+padding: 5px;
+border-radius: 5px;
+}
+
+#BestAzon_BlogName
+{
+color: red;
+}
+
+#BestAzon_Recommendation:hover
+{
+background: black;
+color: white;
+}
